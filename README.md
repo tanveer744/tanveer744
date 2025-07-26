@@ -106,6 +106,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Tanveer744&icon=0&color=0" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Tanveer744&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
