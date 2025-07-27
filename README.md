@@ -64,7 +64,7 @@
 
 ![Tanveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanveer744&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanveer744&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveer744&layout=compact&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveer744&layout=compact&theme=tokyonight&hide_border=false&v=2)
 
 </div>
 
