@@ -51,7 +51,7 @@
 ## 📌 Highlights
 
 - 📄 **IEEE Paper**: *Road Rage Detection Using Deep Learning & Computer Vision*  
-  Published at **ICICACS 2025** – [IEEE Xplore](https://ieeexplore.ieee.org/)
+  Published at **ICICACS 2025** – [IEEE Xplore]([https://ieeexplore.ieee.org/](https://ieeexplore.ieee.org/document/10968328))
 - 🛠️ **AI LinkedIn Automation Tool**: Automated job search features using Python, Selenium, and Gemini API
 - 🏆 Winner – **AIFI Treasure Hunt** & **AI-RENA** competitions (AI rapid builds)
 - 💼 Intern @ **Dev Creations and Solutions**: Built production-ready apps for vendor operations
