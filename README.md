@@ -12,7 +12,6 @@
 
 - 🎓 Computer Science (AI & ML) undergraduate at **Reva University**, Bangalore (2022–2026)
 - 💡 Passionate about building clean, scalable, and AI-driven applications
-- 💼 Currently interning at **Dev Creations and Solutions** (Web & Desktop App Development)
 - 🧠 Experienced in automation, full-stack development, and applied machine learning
 
 ---
