@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Shaik Tanveer Lohare 👋</h1>
 
 <p align="center">
-  💻 AI & Full Stack Developer | 🚀 IEEE Published Researcher | 🛠️ Building Real-World Tech Solutions
+  🤖 AI Engineer | Python · Machine Learning · LLM Applications · RAG | 📄 IEEE Published Researcher (ICICACS 2025)
 </p>
 
 ---
@@ -11,8 +11,9 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science (AI & ML) undergraduate at **Reva University**, Bangalore (2022–2026)
-- 💡 Passionate about building clean, scalable, and AI-driven applications
-- 🧠 Experienced in automation, full-stack development, and applied machine learning
+- 🧠 I build AI systems in Python — deep learning, RAG applications, and the software engineering needed to make them usable
+- 📄 IEEE-published researcher (ICICACS 2025) — deep learning, transfer learning, real-time inference
+- 💼 9 months shipping production software (web, Android, desktop) — including payment gateway integrations
 
 ---
 
@@ -21,40 +22,56 @@
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### 🧠 AI, ML & LLM Engineering
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00A1C9?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 🌐 Web Development
+### 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧰 Tools & Platforms
+### ☁️ Tools & Platforms
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
+## 📂 Featured Projects
+
+**Intelligent Policy Document Query System (RAG) — HackRx 2025**
+Hybrid extraction (PyPDF2 + Azure Document Intelligence) → FAISS retrieval with cross-encoder reranking → Gemini API answer generation, served via FastAPI.
+100% document coverage · 60% relevance improvement · 50% latency reduction vs. single-stage retrieval.
+`Python` `FastAPI` `FAISS` `Azure Document Intelligence` `Gemini API`
+🔗 github.com/tanveer744/[repo-name]
+
+**Deep Learning System for Real-Time Behavior Detection — IEEE ICICACS 2025**
+Two-stage deep learning system detecting aggressive driving in real-time video: 3D CNN violence-detection model (98% accuracy) fine-tuned via transfer learning on a curated road rage dataset (94% accuracy). Real-time OpenCV inference pipeline with full evaluation suite.
+`Python` `TensorFlow/Keras` `OpenCV` `NumPy` `Pandas`
+🔗 github.com/tanveer744/[repo-name] · 📄 [IEEE Xplore](https://ieeexplore.ieee.org/document/10968328)
+
+**Agent project — in progress**
+Python-based agent with tool use / function-calling.
+
+---
+
 ## 📌 Highlights
 
-- 📄 **IEEE Paper**: *Road Rage Detection Using Deep Learning & Computer Vision*  
-  Published at **ICICACS 2025** – [IEEE Xplore](https://ieeexplore.ieee.org/document/10968328)
-
-- 🛠️ **AI LinkedIn Automation Tool**: Automated job search features using Python, Selenium, and Gemini API
 - 🏆 Winner – **AIFI Treasure Hunt** & **AI-RENA** competitions (AI rapid builds)
-- 💼 Intern @ **Dev Creations and Solutions**: Built production-ready apps for vendor operations
+- 💼 **Dev Creations and Solutions**: 15+ shipped features across web, Android & desktop, including ICICI/Razorpay payment gateway integrations
+- 📄 IEEE-published researcher — ICICACS 2025 (see Featured Projects above)
 
 ---
 
